@@ -1,1 +1,1 @@
-# Floyds
+# Floyds triangle problem 
